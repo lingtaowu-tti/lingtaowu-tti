@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lingtaowu-tti
 - 👀 My name is Lingtao Wu, I work for the Center for Transportation Safety- 
 - 👀 I’m interested in sleeping ZZZzzz.
-- 🌱 I’m currently learning Mosaic, Databricks, Python, SQL, and many
+- 🌱 I’m currently learning React, Python, Java, Spark, SQL, and many
 - 💞️ I’m looking to collaborate on MANY projects
 - 📫 How to reach me l-wu@tti.tamu.edu
 
